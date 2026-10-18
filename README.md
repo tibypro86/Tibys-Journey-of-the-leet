@@ -8,7 +8,7 @@ Welcome! This repository serves as a professional portfolio documenting my probl
 * **Consistency:** Solving data structure and algorithm challenges daily to build engineering intuition.
 
 ## 🛠️ Tech Stack & Topics Mastered
-* **Language:** C++ / Java / Python
+* **Language:** Python
 * **Data Structures:** Arrays, Strings, Linked Lists, Stacks, Queues, Trees, and **Tries (Prefix Trees)**.
 * **Algorithms:** Two Pointers, Sliding Window, Recursion, and Binary Search.
 
